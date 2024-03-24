@@ -1,4 +1,6 @@
-### ※ [WebGL으로 웹서버 게시](http://34.82.1.145/)
+### ※ [WebGL으로 웹게시](http://34.82.1.145/)
+* Ubuntu Apache2 서버사용
+* ※ 안드로이드 애플리케이션을 기준으로 제작되어 웹 환경에 맞지 않을 수 있습니다.
 
 # Vertical 2D Shooting Game Project
 
