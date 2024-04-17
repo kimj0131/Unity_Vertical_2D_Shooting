@@ -220,7 +220,7 @@ public class Player : MonoBehaviour
 
     void Bomb()
     {
-        if (Input.touchCount == 2)
+        if (Input.touchCount == 2 || Input.GetMouseButton(2))
         {
             isDubbleTouch = true;
             if (isBombTime)
